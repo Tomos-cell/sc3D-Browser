@@ -28,7 +28,6 @@ docker run -d --name sc3d_django_container --security-opt seccomp=unconfined --r
 docker run -d --name sc3d_nginx_container --restart always -p 8788:80 --volume ${db}/cifdata:/app/database/cifdata --network sc3d_network sc3d_nginx
 docker exec -it sc3d_django_container python manage.py makemigrations 
 docker exec -it sc3d_django_container python manage.py migrate 
-
 ``` 
 #### (for windows user)
 ```

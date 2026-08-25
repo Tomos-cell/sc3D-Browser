@@ -1,5 +1,5 @@
 ## Introduction
-sc3DBrowser is a web-based viewer for single-cell and 3D chromatin genomic data, originally designed to demonstrate multi-modal data sets.
+sc3D-Browser is a web-based viewer for single-cell and 3D chromatin genomic data, originally designed to demonstrate multi-modal data sets.
 
 ## Citation
 submiting...

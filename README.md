@@ -13,8 +13,8 @@ submiting...
 #### 1. Install docker and load docker image
 ```
 git clone https://github.com/Tomos-cell/sc3D-Browser
-docker pull sc3d_django
-docker pull sc3d_nginx
+docker pull sdas124v/sc3d_django
+docker pull sdas124v/sc3d_nginx
 ```
 
 #### 2. Run sc3D-Browser container (for mac or linux user)
